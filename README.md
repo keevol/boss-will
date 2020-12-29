@@ -1,14 +1,7 @@
 # Intro
 
-spring-boot-scala-starter is a template project for springboot and scala. 
+This is just a metaphor for management theory.
 
-The project uses Maven as build tool.
+The effect is just what boss will in my opinion, no matter what, no matter how.
 
-To get start, just `git clone` and modify necessary information in the **pom.xml**.
-
-run "reset.sh" to remove remote origin of git repo.
-
-
-
-
-
+![boss will effect](bosswill.jpg)
